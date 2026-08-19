@@ -1,2 +1,2 @@
-# adventureworkes-data-analyst-project
-data analyst project for adventureworks in excel
+# adventureworkes-data-analysis-project
+data analysis project for adventureworks in excel
