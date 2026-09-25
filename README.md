@@ -1,4 +1,9 @@
 # 📊 Adventure Works Sales Analysis Dashboard
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Dataset](https://img.shields.io/badge/Dataset-AdventureWorks-blue?logo=microsoftsqlserver)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 > 📊 An interactive Power BI dashboard analyzing sales, profit,
 > customers, products, and regional performance using the Adventure Works dataset.
 
